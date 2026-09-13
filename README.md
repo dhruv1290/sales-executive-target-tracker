@@ -15,7 +15,7 @@ Shows **Total Sales**, **Target**, **Target Hit %**, and **Away From Target %** 
 - Simple VBA macro (`SlicerConnection`) to toggle slicer–pivot connections
 
 ## Files
-- `sales-executive-target-tracker-5day-v1.xlsm` – main workbook  
+- `Sales Executive Target Tracker.xlsm` – macro-enabled Excel workbook containing the sales data, PivotTables, dashboard, slicer, charts, and VBA functionality
 
 ## How to use
 1. Download the `.xlsm`.
