@@ -1,5 +1,9 @@
 # Sales Executive Target Tracker (Excel)
 
+## Dashboard Preview
+
+![Sales Executive Target Tracker Dashboard](Dashboard_overview_target_tracker.png)
+
 Macro-enabled Excel dashboard tracking 5-day sales by executive and region.
 Shows **Total Sales**, **Target**, **Target Hit %**, and **Away From Target %** using PivotTables, Slicers, and a small VBA helper.
 
